@@ -1,5 +1,5 @@
 name = Open Signal PCM Airing Feature
-description = Feature to contain all Airing related functionality for PCM
+description = Feature to contain all Airing related functionality for Open Signal PCM
 
 core = 7.x
 package = Open Signal PCM Community Media Advanced
